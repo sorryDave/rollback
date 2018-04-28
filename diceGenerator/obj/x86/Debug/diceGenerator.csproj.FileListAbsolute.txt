@@ -1,0 +1,5 @@
+/home/hellodave/Projects/diceGenerator/diceGenerator/obj/x86/Debug/diceGenerator.csproj.CoreCompileInputs.cache
+/home/hellodave/Projects/diceGenerator/diceGenerator/bin/Debug/diceGenerator.exe
+/home/hellodave/Projects/diceGenerator/diceGenerator/bin/Debug/diceGenerator.pdb
+/home/hellodave/Projects/diceGenerator/diceGenerator/obj/x86/Debug/diceGenerator.exe
+/home/hellodave/Projects/diceGenerator/diceGenerator/obj/x86/Debug/diceGenerator.pdb
