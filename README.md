@@ -31,9 +31,8 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [C#](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/index) - The web framework used
+* [OGL](http://media.wizards.com/2016/downloads/SRD-OGL_V1.1.pdf) - Dependency Management
 
 ## Contributing
 
