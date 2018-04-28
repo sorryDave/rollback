@@ -31,7 +31,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [C#](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/index) - The web framework used
+* [C#](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/index) - Language used
 * [OGL](http://media.wizards.com/2016/downloads/SRD-OGL_V1.1.pdf) - Dependency Management
 
 ## Contributing
